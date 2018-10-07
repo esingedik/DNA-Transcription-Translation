@@ -12,11 +12,11 @@ Translation refers to the process of creating proteins from an mRNA template. Th
 
 First of all, DNA is transcribed to RNA. For this, instead of each DNA part, its counterpart is written (i.e., G for C, C for G, T for A and A for T). Since there is no Thymine in the RNA, the Thymin in DNA is replaced with Uracil, and then Transcripted RNA occurs. Transcripted RNA is splitted into triplets, each called codon. This section was Transcription.
 
-![Alt text](C:\Users\asus\Desktop\Transcription.png?raw=true "Transcription")
+![Alt text](https://user-images.githubusercontent.com/35924267/46584141-4fdb9400-ca68-11e8-90aa-52dbaa9fe065.png?raw=true "Transcription")
 
 In the Translation Section, each codon is looked for in the genetic code table. So UAC becomes Tyrosine, which we can write as Tyr, or
 just Y, etc. This process is continued until all the codons are finished.
 
-![Alt text](C:\Users\asus\Desktop\Translation.png?raw=true "Translation")
+![Alt text](https://user-images.githubusercontent.com/35924267/46584142-50742a80-ca68-11e8-8bd1-5139bd16a52d.png?raw=true "Translation")
 
-![Alt text](C:\Users\asus\Desktop\Genetic_Code_Table.png?raw=true "Genetic Code Table")
+![Alt text](https://user-images.githubusercontent.com/35924267/46584312-81edf580-ca6a-11e8-9ef7-a3c92ddcfc72.jpg?raw=true "Genetic Code Table")
