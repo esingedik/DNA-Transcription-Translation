@@ -1,4 +1,4 @@
-# Data Translation
+# DNA Transcription & Translation
 A Perl program that the DNA sequence is transcribed into mRNA and translation to the appropriate amino acid sequence.
 The program read the DNA sequence from a data file and write the amino acid sequence into another data file.
 
